@@ -17,7 +17,7 @@ public class Main extends Application {
     public void start(Stage primaryStage) throws Exception {
         this.primaryStage = primaryStage;
         this.primaryStage.setTitle("Hello World");
-        initRootLayout(600, 400);
+        initRootLayout(400, 600);
         initAppLayout();
     }
 
